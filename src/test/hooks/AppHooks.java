@@ -10,6 +10,7 @@ import java.util.Properties;
 
 public class AppHooks {
 
+    // Mayur
     private DriverFactory driverFactory;
     private WebDriver driver;
     private ConfigReader configReader;
