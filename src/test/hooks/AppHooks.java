@@ -23,8 +23,8 @@ public class AppHooks {
         driverFactory = new DriverFactory();
         driver = driverFactory.initDriver(browser);
     }
-    @After
+    /*@After
     public void teardown(){
         driver.quit();
-    }
+    }*/
 }
